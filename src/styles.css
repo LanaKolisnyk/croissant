@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  display: block;
+  margin: 8px;
+}
+p {
+  margin: 16px;
+}
+.photo {
+  max-width: 50%;
+  max-height: 20%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+footer a {
+  margin: 0 10px;
+  color: green;
+}
