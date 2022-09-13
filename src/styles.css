@@ -2,7 +2,7 @@ body {
   text-align: center;
   display: block;
   margin: 8px;
-  background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+  background: #fddb92;
 }
 p {
   margin: 16px;
